@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning C and x86 Assembly
+- 👯 I’m looking to collaborate on small projects
+- 💬 Ask me about anything related to retro computing
+- 📫 How to reach me: <sysadmin@declanz.me>
+- 😄 Pronouns: he/him/his/himself
+- ⚡ Fun fact: I collect retro computers
