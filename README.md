@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <sysadmin@declanz.me>
 - 😄 Pronouns: he/him/his/himself
 - ⚡ Fun fact: I collect retro computers
+
+My website: [declanz.me](https://www.declanz.me) or [d3cl4nzdqjbbjjz4x4yc72hzmaqogmqhxdb6tvurnkkw3hnw2ytwxvid.onion](http://www.d3cl4nzdqjbbjjz4x4yc72hzmaqogmqhxdb6tvurnkkw3hnw2ytwxvid.onion)
