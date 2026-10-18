@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on small projects
 - 💬 Ask me about anything related to retro computing
 - 📫 How to reach me: <sysadmin@declanz.me>
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: I collect retro computers
 
 You can visit my website at: [declanz.me](https://www.declanz.me) (or [d3cl4nzdqjbbjjz4x4yc72hzmaqogmqhxdb6tvurnkkw3hnw2ytwxvid.onion](http://www.d3cl4nzdqjbbjjz4x4yc72hzmaqogmqhxdb6tvurnkkw3hnw2ytwxvid.onion) if you're using Tor)
